@@ -2,12 +2,10 @@
 
 <!-- Fill in your personal introduction here -->
 
-- 🔭 Currently working on: **[Your current project/focus]**
-- 🌱 Learning: **[Technologies you're learning]**
-- 👯 Looking to collaborate on: **[Type of projects]**
-- 💬 Ask me about: **[Your expertise areas]**
-- 📫 How to reach me: **[Your email or contact method]**
-- ⚡ Fun fact: **[An interesting fact about you]**
+- Currently working on: \*\* \*\*
+- Learning: **[Technologies you're learning]**
+- Looking to collaborate on: **SmartContract, Dapps**
+- How to reach me: **zhenyuzhou1717155@gmail.com**
 
 ---
 
@@ -18,45 +16,50 @@
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![C#]()
 
-<!-- Add or remove based on your tech stack -->
+### Web3 Related
 
-### Frontend Development
+![HardHat]()
+![Foundry]()
+![OpenZeppelin]()
+![Chainlink]()
+![DEFI]()
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+### Other
 
-<!-- Add or remove based on your tech stack -->
-
-### Blockchain
-
-![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-
-<!-- Add or remove based on your tech stack -->
+![POSTGRESQL]()
+![MYSQL]()
 
 ## 🔥 Featured Projects
 
-<!-- Showcase your representative projects here -->
+### [EventFI project](https://github.com/Sandwichzzy/EventFi-contracts)
 
-### [Project Name 1](project-link)
+**Brief description** - EventFi is an innovative Web3 project that bridges offline merchant activities with the blockchain economy through NFTs, staking, and event airdrop mechanisms, eliminating intermediaries from the platform.
 
-**Brief description** - Explain the core functionality and technical highlights in one or two sentences
+### Cross-Chain Bridge
 
-- 🔧 Tech Stack: `Tech1` `Tech2` `Tech3`
-- ⭐ Highlights: Main features or achievements
+**Brief description** - Pool-Based Cross-Chain Bridge
 
-### [Project Name 2](project-link)
+1. [Bridge-contracts](https://github.com/Sandwichzzy/Bridge-Contracts)
+   Contracts part of Cross-Chain Bridge
+2. [Relayer Node](https://github.com/Sandwichzzy/relayer-node)
+   Relayer-Node is a powerful bridge for cross-chain data synchronization.
+3. [gas-oracle](https://github.com/Sandwichzzy/gas-oracle)
+   gas-oracle is project which can sync any evm chain gas fee with a grpc service for bridge project.
 
-**Brief description** - Explain the core functionality and technical highlights in one or two sentences
+### [Cross-Chain Staking Protocol](https://github.com/Sandwichzzy/Crosschain-Staking-Contract)
 
-- 🔧 Tech Stack: `Tech1` `Tech2` `Tech3`
-- ⭐ Highlights: Main features or achievements
+**Brief description** - This is a cross-chain staking protocol based on Ethereum Beacon Chain staking. It allows users to stake assets on Layer 2, aggregates the funds to the Ethereum mainnet (L1) for validator staking via a cross-chain bridge, and distributes the staking rewards back to L2.
 
-### [Project Name 3](project-link)
+### Pledge Project
 
-**Brief description** - Explain the core functionality and technical highlights in one or two sentences
+**Brief description** - Pledge is an Ethereum-based smart contract staking and lending protocol that employs a multi-signature governance mechanism and supports staking and lending services for various tokens.
 
-- 🔧 Tech Stack: `Tech1` `Tech2` `Tech3`
-- ⭐ Highlights: Main features or achievements
+1. [Pledge-Contract](https://github.com/Sandwichzzy/Pledge-Contract)
+   Contract part: include decentralized fund matching, interest calculation, and risk management, providing fixed-rate lending agreements with a focus on long-term financing needs.
+2. [Pledge-backend](https://github.com/Sandwichzzy/Pledge_backend)
+   The backend part is divided into two parts, one is API and the other is scheduled task.
 
 ---
 
