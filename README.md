@@ -1,16 +1,3 @@
-<div align="center">
-
-# 👋 Hi there, I'm Sandwichzzy
-
-### Full Stack Developer | Blockchain Enthusiast
-
-[![GitHub followers](https://img.shields.io/github/followers/Sandwichzzy?style=social)](https://github.com/Sandwichzzy)
-[![GitHub stars](https://img.shields.io/github/stars/Sandwichzzy?style=social)](https://github.com/Sandwichzzy)
-
-</div>
-
----
-
 ## 🚀 About Me
 
 <!-- Fill in your personal introduction here -->
@@ -60,9 +47,11 @@
 
 <div align="center">
 
-![Sandwichzzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandwichzzy&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=Sandwichzzy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandwichzzy&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandwichzzy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandwichzzy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -120,11 +109,3 @@
 </div>
 
 ---
-
-<div align="center">
-
-### 💡 "Code changes the world, innovation drives the future"
-
-![Visitor Count](https://profile-counter.glitch.me/Sandwichzzy/count.svg)
-
-</div>
