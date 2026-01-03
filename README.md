@@ -1,9 +1,7 @@
 ## 🚀 About Me
 
-<!-- Fill in your personal introduction here -->
+Hi, I'm Zhenyu 👋
 
-- Currently working on: \*\* \*\*
-- Learning: **[Technologies you're learning]**
 - Looking to collaborate on: **SmartContract, Dapps**
 - How to reach me: **zhenyuzhou1717155@gmail.com**
 
@@ -11,25 +9,28 @@
 
 ## 🛠️ Tech Stack
 
-### Language
+### Languages:
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![C#]()
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
-### Web3 Related
+### Web3 & Blockchain:
 
-![HardHat]()
-![Foundry]()
-![OpenZeppelin]()
-![Chainlink]()
-![DEFI]()
+![Hardhat](https://img.shields.io/badge/-Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
+![Foundry](https://img.shields.io/badge/-Foundry-1E1E1E?style=flat-square&logo=ethereum&logoColor=white)
+![OpenZeppelin](https://img.shields.io/badge/-OpenZeppelin-4E5EE4?style=flat-square&logo=openzeppelin&logoColor=white)
+![Chainlink](https://img.shields.io/badge/-Chainlink-375BD2?style=flat-square&logo=chainlink&logoColor=white)
 
-### Other
+**DeFi Protocols**: EigenLayer • Uniswap V2/V3 • AAVE V3
 
-![POSTGRESQL]()
-![MYSQL]()
+### Other Technologies:
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
 ## 🔥 Featured Projects
 
@@ -63,11 +64,7 @@
 
 ---
 
-## 📝 Perosnal Blog
-
-https://myblog-nextjs-jade.vercel.app/
-
----
+## 📝 [Perosnal Blog](https://myblog-nextjs-jade.vercel.app/)
 
 ## 🤝 Connect with Me
 
