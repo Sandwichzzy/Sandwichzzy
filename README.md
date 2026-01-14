@@ -1,9 +1,9 @@
 ## 🚀 About Me
 
-Hi, I'm Zhenyu 👋
+Hi, I'm Daniel Zhou 👋
 
 - Looking to collaborate on: **SmartContract, Dapps**
-- How to reach me: **zhenyuzhou1717155@gmail.com**
+- How to reach me: **zzy15198@163.com**
 
 ---
 
