@@ -3,7 +3,7 @@
 Hi, I'm Daniel Zhou 👋
 
 - Looking to collaborate on: **SmartContract, Dapps**
-- How to reach me: **zzy15198@163.com**
+- How to reach me: **zzy15198@outlook.com**
 
 ---
 
