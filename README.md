@@ -39,4 +39,4 @@ Developed L1/L2 staking and bridge contracts, staking-derivative minting, and re
 
 ## Contact
 
-[Email](mailto:danielsandwich59@gmail.com) · [GitHub](https://github.com/Sandwichzzy) · [Telegram](https://t.me/SandwichZZY)
+[Email](mailto:danielsandwich59@gmail.com) · [GitHub](https://github.com/Sandwichzzy) · [Telegram](https://t.me/Hyacinthzzy)
